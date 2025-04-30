@@ -16,3 +16,10 @@ across Indian states and union territories.
 The goal of this project is to provide a clear, data-driven understanding of how parliamentary
 
 representation is distributed geographically in India.
+
+🔎 Key Features:
+Interactive visuals: Easily explore the number of seats per state through bar charts, maps, and tables.
+
+Clear comparisons: Identify which states have the highest and lowest number of Lok Sabha seats.
+
+Regional insights: Understand the political weight of each region in the formation of central government.
