@@ -17,7 +17,10 @@ The goal of this project is to provide a clear, data-driven understanding of how
 
 representation is distributed geographically in India.
 
-🔎 Key Features:
+
+**🔎 Key Features:**
+
+
 Interactive visuals: Easily explore the number of seats per state through bar charts, maps, and tables.
 
 Clear comparisons: Identify which states have the highest and lowest number of Lok Sabha seats.
