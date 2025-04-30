@@ -1,6 +1,6 @@
 # State-Wise-Constituency-Seats-in-India-Analysis-in-Powerbi
 
-📌 State-Wise Constituency Seats in India
+**📌 State-Wise Constituency Seats in India**
 
 
 This visualization highlights the distribution of Lok Sabha seats across Indian states. 
