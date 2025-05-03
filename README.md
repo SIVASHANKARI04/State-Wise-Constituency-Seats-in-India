@@ -36,7 +36,10 @@ Clear comparisons: Identify which states have the highest and lowest number of L
 
 Regional insights: Understand the political weight of each region in the formation of central government.
 
-🎯 Project Purpose:
+
+**🎯 Project Purpose:**
+
+
 This dashboard is designed for:
 
 Students and researchers studying political science or Indian governance.
