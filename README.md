@@ -35,3 +35,12 @@ Interactive visuals: Easily explore the number of seats per state through bar ch
 Clear comparisons: Identify which states have the highest and lowest number of Lok Sabha seats.
 
 Regional insights: Understand the political weight of each region in the formation of central government.
+
+🎯 Project Purpose:
+This dashboard is designed for:
+
+Students and researchers studying political science or Indian governance.
+
+Data analysts exploring electoral trends.
+
+Citizens who want to understand how representation varies by state.
