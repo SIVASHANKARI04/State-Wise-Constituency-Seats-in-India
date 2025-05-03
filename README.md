@@ -21,6 +21,15 @@ representation is distributed geographically in India.
 **🔎 Key Features:**
 
 
+🧰 Tools & Technologies:
+
+Power BI: Used for data cleaning, modeling, and visualization.
+
+CSV Data Source: Raw constituency data processed and imported into Power BI.
+
+Data Transformation: Applied DAX measures and filters to enhance interactivity.
+
+
 Interactive visuals: Easily explore the number of seats per state through bar charts, maps, and tables.
 
 Clear comparisons: Identify which states have the highest and lowest number of Lok Sabha seats.
